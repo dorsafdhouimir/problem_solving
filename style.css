@@ -502,6 +502,8 @@ nav {
 .rent-now:hover {
     background-color: var(--dark-blue);
 }
+
+
 /* Footer */
 .main-footer {
     background-color: var(--white);
