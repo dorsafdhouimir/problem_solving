@@ -54,3 +54,6 @@ viewAllLinks.forEach(link => {
         // Logique pour charger plus d'éléments
     });
 });
+
+alert("Vous louez la voiture : ${carName} (depuis la branche branche-conflit)");
+
