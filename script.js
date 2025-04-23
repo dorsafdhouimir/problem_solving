@@ -55,4 +55,5 @@ viewAllLinks.forEach(link => {
     });
 });
 
-alert("Vous avez choisi de louer la voiture : ${carName} (depuis la branche feature-scriptJS)");
+alert("Vous louez la voiture : ${carName} (depuis la branche branche-conflit)");
+
