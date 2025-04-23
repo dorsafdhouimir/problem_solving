@@ -54,3 +54,5 @@ viewAllLinks.forEach(link => {
         // Logique pour charger plus d'éléments
     });
 });
+
+alert("Vous avez choisi de louer la voiture : ${carName} (depuis la branche feature-scriptJS)");
